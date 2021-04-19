@@ -2,4 +2,6 @@
 
 Hi. I'm VolcanicArts and here you'll find all my in progress projects mostly programmed in the Java and C# languages. Hope you'll find something useful.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=volcanicarts&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=VolcanicArts'%20Github%20Stats&line_height=24)
+Currently, my main project is my Discord music bot, Cybel. You can find information about Cybel on the [Documentation Page](https://docs.cybelbot.xyz)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=volcanicarts)](https://github.com/anuraghazra/github-readme-stats)
