@@ -1,11 +1,9 @@
 # VolcanicArts
 
-Hi, I'm VolcanicArts. Currently an undergraduate in Computer Science. I do a lot of open source projects in my spare time. Hope you find something useful.
+Hi, I'm VolcanicArts. Currently an undergraduate in Computer Science and software engineer at Next plc. I do a lot of open source projects in my spare time. Hope you find something useful.
 
-## Current Projects
-[VRCOSC](https://github.com/VolcanicArts/VRCOSC) - A modular OSC provider primarily made for VRChat.
-
-[OsuRequest](https://github.com/VolcanicArts/osu-request) - An osu! beatmapset request client with Twitch integration.
+## Main Projects
+[VRCOSC](https://github.com/VolcanicArts/VRCOSC) - A modular OSC application creator made for VRChat.
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volcanicarts&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
