@@ -1,6 +1,6 @@
 # VolcanicArts
 
-Hi, I'm VolcanicArts. Currently an undergraduate in Computer Science and software engineer at Next plc. I do a lot of open source projects in my spare time. Hope you find something useful.
+Hi, I'm VolcanicArts. Currently an undergraduate in Computer Science. I do a lot of open source projects in my spare time. Hope you find something useful.
 
 ## Main Projects
 [VRCOSC](https://github.com/VolcanicArts/VRCOSC) - A modular OSC application creator made for VRChat.
