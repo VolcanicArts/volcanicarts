@@ -1,9 +1,11 @@
 # VolcanicArts
 
-Hi, I'm VolcanicArts. Currently an undergraduate in Computer Science. I do a lot of open source projects in my spare time. Hope you find something useful.
+Hi, I'm VolcanicArts. I do a lot of open source projects in my spare time. Hope you find something useful.
 
 ## Main Projects
 [VRCOSC](https://github.com/VolcanicArts/VRCOSC) - A modular OSC application creator made for VRChat.
+
+[FastOSC](https://github.com/VolcanicArts/FastOSC) - A fast and memory-optimised modern OSC library for .NET6.
 
 ## Stats
 [![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VolcanicArts&theme=monokai)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
